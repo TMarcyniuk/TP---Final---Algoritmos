@@ -1,11 +1,11 @@
 # TP---Final---Algoritmos
 
-# 🦸‍♂️ Tienda Online “Nadie se salva solo”  
+#  Tienda Online “Nadie se salva solo”  
 **Trabajo Práctico Final N°5 - Laboratorio de Algoritmos y Estructuras de Datos**
 
 ---
 
-## 📖 Descripción del proyecto
+##  Descripción del proyecto
 
 Este proyecto implementa el **núcleo lógico (backend)** de una tienda online de cómics llamada *“Nadie se salva solo”*.  
 El objetivo es simular el funcionamiento interno del sistema sin necesidad de una interfaz gráfica.  
@@ -20,7 +20,7 @@ Todas estas funcionalidades se desarrollaron aplicando estructuras de datos efic
 
 ---
 
-## ⚙️ Instrucciones de ejecución
+##  Instrucciones de ejecución
 
 1. Clonar el repositorio:  
    ```bash
@@ -32,7 +32,7 @@ Todas estas funcionalidades se desarrollaron aplicando estructuras de datos efic
    python main.py
 
 
-## 🏗️ Decisiones de diseño
+##  Decisiones de diseño
 
 ### 1. Gestión de productos → **Hash Table**
 **Estructura:** Diccionario o tabla hash.  
